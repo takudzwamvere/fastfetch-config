@@ -3,7 +3,7 @@
   "logo": {
     "type": "sixel",
     "source": "~/.config/fastfetch/mary.jpg",
-    "width": 50,
+    "width": 5,
     "height": 23,
     "padding": {
       "top": 1,
